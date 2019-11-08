@@ -1,10 +1,10 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /GIS/
+title: "GIS projects"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/Fotolia_108919730_M.jpg"
 ---
 
 
