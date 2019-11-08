@@ -31,9 +31,18 @@ Throughout the performed analysis and examination of the traffic accident data, 
   + Space-time patterns and Emerging Hot spots
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.jpg" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.jpg" alt="linearly separable data">
       *Used Tools*
+      
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.jpg" alt="linearly separable data">
       *3D Visualization of the Space-Time Cubes*
-
+   - Stopping Sight Distance (SSD)
+      *The distance needed for a vehicle to stop before colliding with something in the roadway*
+      $$SSD=(0.278*t*V)+V^2/(254*(f + G)$$
+      where:
+        $$SSD = Stopping Sight Distance$$
+        $$t: Reaction Time in Seconds ≃ 1.5 sec$$
+        $$V: Car Speed in km/h ≃ road’s speed limit%%
+        $$G: Slope level = 0$$
+        $$f: Coefficient of friction$$
 
 #### 3. Accident Analysis
 
