@@ -70,7 +70,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   * Accident Hot Spots and EMS Service Areas Comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
     
-
+'''
 ### H3 Heading
 
 Here's some basic text.
@@ -120,3 +120,4 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
+'''
