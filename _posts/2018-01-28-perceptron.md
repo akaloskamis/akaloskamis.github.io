@@ -40,10 +40,11 @@ Throughout the performed analysis and examination of the traffic accident data, 
       
       where:
       
-        $$SSD = Stopping-Sight-Distance$$
+        $$SSD = Stopping\:Sight\:-Distance$$
         $$t: Reaction-Time-in-Seconds ≃ 1.5-sec$$
         $$V: Car-Speed-in-km/h ≃ road’s-speed-limit$$
         $$G: Slope-level = 0$$
+        
         $$f: Coefficient-of-friction$$ <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Coefficient.JPG" alt="linearly separable data">
 
 #### 3. Accident Analysis
