@@ -2,7 +2,7 @@
 title: "Dissertation Project"
 date: 15-08-2019
 tags: [Accident Analysis, Hotspots, Road Network Analysis]
-header: "Spatial-Temporal Traffic Accident Analysis in relation to EMS Response Time"
+header: 
   image: "/images/perceptron/AccidentAnalysis.jpg"
 excerpt: "Traffic Accident Analysis, Accident Hotspots, EMS Response Time"
 mathjax: "true"
