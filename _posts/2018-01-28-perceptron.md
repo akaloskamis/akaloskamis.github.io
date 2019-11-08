@@ -50,6 +50,10 @@ Throughout the performed analysis and examination of the traffic accident data, 
 
 ### Results
 
+  * Ambulance Service Areas and Find Closest Facilities Layers
+  The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the road speed limit. 
+  <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.JPG" alt="linearly separable data">
+
 
 ### H3 Heading
 
