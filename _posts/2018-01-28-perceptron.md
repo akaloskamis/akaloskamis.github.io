@@ -16,11 +16,11 @@ Traffic accidents constitute one of the dominant causes of death globally, influ
 Throughout the performed analysis and examination of the traffic accident data, some new accident trends have been identified, during the last few years. Moreover, a high density of accidents takes place during specific day hours and months. Finally, most of the hot spots are located within the boundaries of the HEAT standard of 8 minutes, constituting the EMS station ideally situated. However, an emphasis should be given on those hot spots located farther than the 8-minutes zones, and further policies should be deployed against those prone areas.
 
 ### Methodology
-1. Data Ppreparation
+#### 1. Data Ppreparation
 
-2. Road Network Analysis
+#### 2. Road Network Analysis
 
-3. Accident Analysis
+#### 3. Accident Analysis
 
 ### Results
 
