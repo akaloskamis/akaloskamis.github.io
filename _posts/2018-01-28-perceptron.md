@@ -27,6 +27,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   The road network dataset which is acquired with a UK national coverage, contains information on virtually every road segment across     the UK. The road network was clipped into the extent of the boundaries of Aberdeen city in order to make the data manipulation           easier and faster.
 * EMS Response Time Distribution
 <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
+*The 'Find Closest Facility' tool was used to calculate the Distribution*
   
 
 #### 3. Accident Analysis
