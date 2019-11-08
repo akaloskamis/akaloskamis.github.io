@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: GIS Projects
 permalink: /GIS/
 title: "GIS projects"
 author_profile: true
