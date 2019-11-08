@@ -20,6 +20,8 @@ Throughout the performed analysis and examination of the traffic accident data, 
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing space-time patterns in the data.
 * Study Area 
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
++ Data Acquisition
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
 
 #### 2. Road Network Analysis
 
