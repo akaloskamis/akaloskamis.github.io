@@ -19,24 +19,24 @@ Throughout the performed analysis and examination of the traffic accident data, 
 #### 1. Data Preparation
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
   * Study Area 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
-   + Data Acquisition
-  <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
+  + Data Acquisition
+    <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
 
 #### 2. Road Network Analysis
   The road network dataset which is acquired with a UK national coverage, contains information on virtually every road segment across     the UK. The road network was clipped into the extent of the boundaries of Aberdeen city in order to make the data manipulation           easier and faster.
   * EMS Response Time Distribution
 
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
-    *The 'Find Closest Facility' tool was used to calculate the Distribution*
+      *The 'Find Closest Facility' tool was used to calculate the Distribution*
  
   + Space-time patterns and Emerging Hot spots
 
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.png" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.png" alt="linearly separable data">
-    *Used Tools*
+      *Used Tools*
 
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.png" alt="linearly separable data">
-    *3D Visualization of the Space-Time Cubes*
+      *3D Visualization of the Space-Time Cubes*
 
 
 #### 3. Accident Analysis
