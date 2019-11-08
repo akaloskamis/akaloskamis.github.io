@@ -28,7 +28,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
 * EMS Response Time Distribution
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
-*The 'Find Closest Facility' tool was used to calculate the Distribution*
+  *The 'Find Closest Facility' tool was used to calculate the Distribution*
  
 + Space-time patterns and Emerging Hot spots
 
