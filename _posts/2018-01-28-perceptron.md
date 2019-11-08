@@ -29,9 +29,9 @@ Throughout the performed analysis and examination of the traffic accident data, 
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
       *The 'Find Closest Facility' tool was used to calculate the Distribution*
   + Space-time patterns and Emerging Hot spots
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.png" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.png" alt="linearly separable data">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.jpg" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.jpg" alt="linearly separable data">
       *Used Tools*
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.png" alt="linearly separable data">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.jpg" alt="linearly separable data">
       *3D Visualization of the Space-Time Cubes*
 
 
