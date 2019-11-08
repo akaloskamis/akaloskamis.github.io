@@ -66,9 +66,9 @@ Throughout the performed analysis and examination of the traffic accident data, 
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Hourly.jpg" alt="linearly separable data">
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Monthly.jpg" alt="linearly separable data">
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Annual.jpg" alt="linearly separable data">
-    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.jpg" alt="linearly separable data">
+    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.JPG" alt="linearly separable data">
   * Accident Hot Spots and EMS Service Areas Comparison
-    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.JPG" alt="linearly separable data">
+    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
     
 
 ### H3 Heading
