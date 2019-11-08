@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Dissertation Project"
+date: 15-08-2019
+tags: [Accident Analysis, Hotspots, Road Network Analysis]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/perceptron/AccidentAnalysis.jpg"
+excerpt: "Traffic Accident Analysis, Accident Hotspots, EMS Response Time"
 mathjax: "true"
 ---
 
