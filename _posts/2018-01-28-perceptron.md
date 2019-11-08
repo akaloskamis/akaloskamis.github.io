@@ -37,10 +37,11 @@ Throughout the performed analysis and examination of the traffic accident data, 
    - Stopping Sight Distance (SSD)
       *The distance needed for a vehicle to stop before colliding with something in the roadway*
       $$SSD=(0.278*t*V)+V^2/(254*(f + G)$$
+      
       where:
         $$SSD = Stopping Sight Distance$$
         $$t: Reaction Time in Seconds ≃ 1.5 sec$$
-        $$V: Car Speed in km/h ≃ road’s speed limit%%
+        $$V: Car Speed in km/h ≃ road’s speed limit$$
         $$G: Slope level = 0$$
         $$f: Coefficient of friction$$
 
