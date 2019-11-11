@@ -1,7 +1,6 @@
 ---
 title: "GIS Projects"
 permalink: /GIS/
-permalink: /about/
 header:
   image: "/images/Fotolia_108919730_M.jpg"
 ---
