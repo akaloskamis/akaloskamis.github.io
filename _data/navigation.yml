@@ -6,7 +6,6 @@ main:
     url: /about/
   - title: "GIS Projects"
     url: /GIS/
-    url: /sample1/
   - title: "Data Analysis Projects"
     url: /sample1/
   - title: "Python"
