@@ -1,7 +1,6 @@
 ---
-layout: GIS Projects
+title: "GIS Projects"
 permalink: /GIS/
-title: "GIS projects"
 header:
   image: "/images/Fotolia_108919730_M.jpg"
 ---
