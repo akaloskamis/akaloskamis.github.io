@@ -7,7 +7,7 @@ main:
   - title: "GIS Projects"
     url: /GIS/
   - title: "Data Analysis Projects"
-    url: /Data Analysis/sample1/
+    url: /sample1/
   - title: "Python"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
