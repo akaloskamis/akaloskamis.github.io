@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "GIS Projects"
-    url: /data-wrangling/
-   - title: "Data Analysis Projects"
+  title: "About"
+  url: /about/
+  title: "GIS Projects"
+  url: /data-wrangling/
+   #title: "Data Analysis Projects"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
