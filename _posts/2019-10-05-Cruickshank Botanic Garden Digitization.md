@@ -1,7 +1,7 @@
 ---
-title: "Knock Farm Assets Management Project"
+title: "Cruickshank Botanic Garden Digitization"
 date: 05-10-2019
-tags: [Accident Analysis, Hotspots, Road Network Analysis]
+tags: [ArcGIS, Digitization, #D VIsualization]
 header: 
   image: "/images/perceptron/AccidentAnalysis.jpg"
 excerpt: "Traffic Accident Analysis, Accident Hotspots, EMS Response Time"
