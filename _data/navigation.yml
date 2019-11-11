@@ -5,7 +5,7 @@ main:
   - title: "Resume"
     url: /about/
   - title: "Cruickshank Botanic Garden Digitization"
-    url: /data-wrangling/
+    url: /GIS/
   - title: "Data Analysis Projects"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
