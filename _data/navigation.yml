@@ -6,8 +6,9 @@ main:
     url: /about/
   - title: "GIS Projects"
     url: /GIS/
+    url: /sample1/
   - title: "Data Analysis Projects"
-    url: /sample2/
+    url: /sample1/
   - title: "Python"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Collections"
