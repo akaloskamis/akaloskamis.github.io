@@ -17,7 +17,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
 ## B ) **_Methodology_** 
 ### 1. Data Preparation
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
-  ####  Study Area 
+    ####  Study Area 
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
     *Fig. 2: The location of the study area in Scotland, UK.*
     
