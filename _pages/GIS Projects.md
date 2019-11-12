@@ -59,7 +59,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clusters.jpg" alt="linearly separable data">
     
-   #### Accident Rates per Road
+#### Accident Rates per Road
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CpR.jpg" alt="linearly separable data">
 
@@ -67,7 +67,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
     
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/DpR.jpg" alt="linearly separable data">
    
-   ####  Accident hot spots comparison
+####  Accident hot spots comparison
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_Cas.jpg" alt="linearly separable data">
     
@@ -75,7 +75,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cas_D.jpg" alt="linearly separable data">
    
-   #### Temporal Distributions
+#### Temporal Distributions
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Hourly.jpg" alt="linearly separable data">
  
@@ -85,7 +85,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.JPG" alt="linearly separable data">
    
-   ####  Accident Hot Spots and EMS Service Areas Comparison
+####  Accident Hot Spots and EMS Service Areas Comparison
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
     
