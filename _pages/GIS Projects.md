@@ -2,12 +2,12 @@
 title: "GIS Projects"
 permalink: /GIS/
 header:
-  image: "/images/perceptron/AccidentAnalysis.jpg"
+  image: "/images/Fotolia_108919730_M.jpg"
 mathjax: "true"
 ---
 
 ## Dissertation-Spatial-Temporal Traffic Accident Analysis in relation to EMS Response Time
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/AccidentAnalysis.jpg" alt="linearly separable data">
 ### Abstract
 Traffic accidents constitute one of the dominant causes of death globally, influencing the welfare of modern society significantly. Aberdeen City is considered as one of the most traffic-congested cities in the UK, resulting in more than 180 incidents per year for the last 10-year period. The purpose of this study is to perform an accidents cluster analysis in the City of Aberdeen by examining both time and space aspects in relation to the Emergency Medical Services (EMS) response time. Performing network cluster analysis, new space-time accident hot spots are detected on the road network and then a composite examination between those hot spots and the EMS response time is performed.
 
