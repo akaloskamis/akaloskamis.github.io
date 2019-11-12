@@ -1,4 +1,5 @@
 ---
+layout: collection
 title: "Data Analysis Projects"
 permalink: /DataAnalysis/
 header:
