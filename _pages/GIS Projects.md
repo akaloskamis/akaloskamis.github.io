@@ -13,15 +13,15 @@ Traffic accidents constitute one of the dominant causes of death globally, influ
 
 Throughout the performed analysis and examination of the traffic accident data, some new accident trends have been identified, during the last few years. Moreover, a high density of accidents takes place during specific day hours and months. Finally, most of the hot spots are located within the boundaries of the HEAT standard of 8 minutes, constituting the EMS station ideally situated. However, an emphasis should be given on those hot spots located farther than the 8-minutes zones, and further policies should be deployed against those prone areas.
 
-#### Methodology
-##### 1. Data Preparation
+### Methodology
+#### 1. Data Preparation
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
   * Study Area 
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
   + Data Acquisition
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
 
-##### 2. Accident Analysis
+#### 2. Accident Analysis
   The road network dataset which is acquired with a UK national coverage, contains information on virtually every road segment across     the UK. The road network was clipped into the extent of the boundaries of Aberdeen city in order to make the data manipulation           easier and faster.
   * EMS Response Time Distribution
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
@@ -45,7 +45,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
         $$f: Coefficient\;of\;friction$$ <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Coefficient.JPG" alt="linearly separable data">
 
 
-#### Results
+### Results
 
   * Ambulance Service Areas and Find Closest Facilities Layers
     The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other           words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the       road speed limit.<img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.jpg" alt="linearly separable data">
@@ -66,7 +66,10 @@ Throughout the performed analysis and examination of the traffic accident data, 
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.JPG" alt="linearly separable data">
   * Accident Hot Spots and EMS Service Areas Comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
-   
+    
+### Poster
+  <img src="{{site.url }}{{ site.baseurl }}/Dissertation_Poster_Antonios_Kaloskamis(51877623).pdf" alt="linearly separable data">
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
