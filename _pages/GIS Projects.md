@@ -9,12 +9,12 @@ mathjax: "true"
 ## Dissertation-Spatial-Temporal Traffic Accident Analysis in relation to EMS Response Time
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/AccidentAnalysis.jpg" alt="linearly separable data">
 *Fig. 1: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
-###               Abstract
+### ----------------------------------------Abstract------------------------------------------------------------------------------------
 Traffic accidents constitute one of the dominant causes of death globally, influencing the welfare of modern society significantly. Aberdeen City is considered as one of the most traffic-congested cities in the UK, resulting in more than 180 incidents per year for the last 10-year period. The purpose of this study is to perform an accidents cluster analysis in the City of Aberdeen by examining both time and space aspects in relation to the Emergency Medical Services (EMS) response time. Performing network cluster analysis, new space-time accident hot spots are detected on the road network and then a composite examination between those hot spots and the EMS response time is performed.
 
 Throughout the performed analysis and examination of the traffic accident data, some new accident trends have been identified, during the last few years. Moreover, a high density of accidents takes place during specific day hours and months. Finally, most of the hot spots are located within the boundaries of the HEAT standard of 8 minutes, constituting the EMS station ideally situated. However, an emphasis should be given on those hot spots located farther than the 8-minutes zones, and further policies should be deployed against those prone areas.
 
-###               Methodology
+### ----------------------------------------Methodology---------------------------------------------------------------------------------
 #### 1. Data Preparation
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
   * Study Area 
@@ -51,7 +51,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
         $$f: Coefficient\;of\;friction$$ <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Coefficient.JPG" alt="linearly separable data">
 
 
-###              Results
+### ---------------------------------------Results--------------------------------------------------------------------------------------
 
   * Ambulance Service Areas and Find Closest Facilities Layers
     The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other           words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the       road speed limit.<img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.jpg" alt="linearly separable data">
@@ -82,7 +82,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   * Accident Hot Spots and EMS Service Areas Comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
     
-### Poster
+### ----------------------------------------Poster--------------------------------------------------------------------------------------
   <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Dissertation_Poster.jpg" alt="linearly separable data">
   *Fig. 6: Dissertation Poster*
 
