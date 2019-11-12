@@ -21,7 +21,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   + Data Acquisition
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
 
-##### 2. Road Network Analysis
+##### 2. Accident Analysis
   The road network dataset which is acquired with a UK national coverage, contains information on virtually every road segment across     the UK. The road network was clipped into the extent of the boundaries of Aberdeen city in order to make the data manipulation           easier and faster.
   * EMS Response Time Distribution
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
@@ -44,7 +44,6 @@ Throughout the performed analysis and examination of the traffic accident data, 
         $$G: Slope\;level = 0$$               
         $$f: Coefficient\;of\;friction$$ <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Coefficient.JPG" alt="linearly separable data">
 
-##### 3. Accident Analysis
 
 #### Results
 
