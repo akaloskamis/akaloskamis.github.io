@@ -9,7 +9,7 @@ main:
   - title: "Data Analysis Projects"
     url: /DataAnalysis/
   - title: "Python"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /Python/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
