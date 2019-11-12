@@ -264,9 +264,16 @@ defaults:
       
       
 collections:
-  portfolio:
+  GIS:
     output: true
-    permalink: /:collection/:path/      
+    permalink: /GIS/:name    
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: ""
+      type: "GIS"
+    values:
+      layout: GIS
 
 
