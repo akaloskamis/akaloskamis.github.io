@@ -17,28 +17,28 @@ Throughout the performed analysis and examination of the traffic accident data, 
 ## B ) **_Methodology_** 
 ### 1. Data Preparation
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
-  #### * Study Area 
+  ####  Study Area 
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
     *Fig. 2: The location of the study area in Scotland, UK.*
     
-  #### + Data Acquisition
+  ####  Data Acquisition
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
     *Fig. 3: Spatial distribution of traffic accidents between 2005 and 2017.*
 
 ### 2. Accident Analysis
   The road network dataset which is acquired with a UK national coverage, contains information on virtually every road segment across     the UK. The road network was clipped into the extent of the boundaries of Aberdeen city in order to make the data manipulation           easier and faster.
-  #### * EMS Response Time Distribution
+  ####  EMS Response Time Distribution
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
     *Fig. 4: Distribution of the time that an ambulance needs to reach the accident site.*
      
-  #### + Space-time patterns and Emerging Hot spots
+  ####  Space-time patterns and Emerging Hot spots
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.jpg" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.jpg" alt="linearly separable data">
     *Fig. 5: Figure 11: Screen shots of the parameters used by the Create Space Time Cube by Aggregating Points and the Emerging Hot Spot Analysis tools.*
       
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.jpg" alt="linearly separable data">
     *Fig. 6: Screenshot of the 3D visualisation of the space – time cube.*
     
-   #### - Stopping Sight Distance (SSD)
+   ####  Stopping Sight Distance (SSD)
       *The distance needed for a vehicle to stop before colliding with something in the roadway*
       $$SSD=(0.278*t*V)+V^2/(254*(f + G)$$
       
@@ -53,19 +53,19 @@ Throughout the performed analysis and examination of the traffic accident data, 
 
 ## C ) **_Results_**
 
-  #### * Ambulance Service Areas and Find Closest Facilities Layers
+  ####  Ambulance Service Areas and Find Closest Facilities Layers
     The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other           words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the       road speed limit.<img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.jpg" alt="linearly separable data">
-  #### * Space-time Hot Spot Analysis
+  ####  Space-time Hot Spot Analysis
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clusters.jpg" alt="linearly separable data">
     
-  #### * Accident Rates per Road
+  ####  Accident Rates per Road
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CpR.jpg" alt="linearly separable data">
 
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CaspR.jpg" alt="linearly separable data">
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/DpR.jpg" alt="linearly separable data">
-  #### * Accident hot spots comparison
+  ####  Accident hot spots comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_Cas.jpg" alt="linearly separable data">
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_D.jpg" alt="linearly separable data">
@@ -79,7 +79,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Annual.jpg" alt="linearly separable data">
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.JPG" alt="linearly separable data">
-  #### * Accident Hot Spots and EMS Service Areas Comparison
+  ####  Accident Hot Spots and EMS Service Areas Comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
     
 ## D ) **_Poster_**
