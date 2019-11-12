@@ -42,19 +42,19 @@ Throughout the performed analysis and examination of the traffic accident data, 
    *The distance needed for a vehicle to stop before colliding with something in the roadway*
       $$SSD=(0.278*t*V)+V^2/(254*(f + G)$$
       
-      where:
+   where:
       
-        $$SSD = Stopping\;Sight\;Distance$$
-        $$t: Reaction\;Time\;in\;Seconds ≃ 1.5\;sec$$
-        $$V: Car\;Speed\;in\;km/h ≃ road’s\;speed\;limit$$
-        $$G: Slope\;level = 0$$               
-        $$f: Coefficient\;of\;friction$$ <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Coefficient.JPG" alt="linearly separable data">
+   $$SSD = Stopping\;Sight\;Distance$$
+   $$t: Reaction\;Time\;in\;Seconds ≃ 1.5\;sec$$
+   $$V: Car\;Speed\;in\;km/h ≃ road’s\;speed\;limit$$
+   $$G: Slope\;level = 0$$               
+   $$f: Coefficient\;of\;friction$$ <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Coefficient.JPG" alt="linearly separable data">
 
 
 ## C ) **_Results_**
 
 ####  Ambulance Service Areas and Find Closest Facilities Layers
-    The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other           words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the       road speed limit.<img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.jpg" alt="linearly separable data">
+   The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other          words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the        road speed limit.<img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.jpg" alt="linearly separable data">
 ####  Space-time Hot Spot Analysis
   
    <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clusters.jpg" alt="linearly separable data">
