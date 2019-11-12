@@ -19,20 +19,24 @@ Throughout the performed analysis and examination of the traffic accident data, 
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
   * Study Area 
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
+    *Fig. 2: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
   + Data Acquisition
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
+    *Fig. 3: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
 
 #### 2. Accident Analysis
   The road network dataset which is acquired with a UK national coverage, contains information on virtually every road segment across     the UK. The road network was clipped into the extent of the boundaries of Aberdeen city in order to make the data manipulation           easier and faster.
   * EMS Response Time Distribution
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/image.png" alt="linearly separable data">
+    *Fig. 4: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
       *The 'Find Closest Facility' tool was used to calculate the Distribution*
   + Space-time patterns and Emerging Hot spots
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.jpg" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.jpg" alt="linearly separable data">
-      *Used Tools*
+    *Fig. 5: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
       
     <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.jpg" alt="linearly separable data">
+    *Fig. 6: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
       *3D Visualization of the Space-Time Cubes*
    - Stopping Sight Distance (SSD)
       *The distance needed for a vehicle to stop before colliding with something in the roadway*
@@ -53,31 +57,44 @@ Throughout the performed analysis and examination of the traffic accident data, 
     The Ambulance Service Areas Layer shows the regions that an ambulance can reach within different time-step intervals. In other           words, it refers to the time needed for an ambulance to reach the accident location and depends on the network complexity and the       road speed limit.<img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/ServiceAreas.jpg" alt="linearly separable data">
   * Space-time Hot Spot Analysis
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clusters.jpg" alt="linearly separable data">
+    *Fig. 7: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
   * Accident Rates per Road
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CpR.jpg" alt="linearly separable data">
+    *Fig. 8: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CaspR.jpg" alt="linearly separable data">
+    *Fig. 9: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/DpR.jpg" alt="linearly separable data">
+    *Fig. 10: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
   * Accident hot spots comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_Cas.jpg" alt="linearly separable data">
+    *Fig. 11: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_D.jpg" alt="linearly separable data">
+    *Fig. 12: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cas_D.jpg" alt="linearly separable data">
+    *Fig. 13: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
   * Temporal Distributions
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Hourly.jpg" alt="linearly separable data">
+    *Fig. 14: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Monthly.jpg" alt="linearly separable data">
+    *Fig. 15: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Annual.jpg" alt="linearly separable data">
+    *Fig. 16: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.JPG" alt="linearly separable data">
+    *Fig. 17: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
   * Accident Hot Spots and EMS Service Areas Comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
+    *Fig. 18: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
     
 ### Poster
   <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Dissertation_Poster.jpg" alt="linearly separable data">
+  *Fig. 19: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
