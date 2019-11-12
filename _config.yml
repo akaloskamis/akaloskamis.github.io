@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antonios Kaloskamis Portfolio"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : "Antonios Kaloskamis"
 description              : "Personal Portfolio"
