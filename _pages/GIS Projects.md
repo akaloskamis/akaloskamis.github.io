@@ -1,5 +1,5 @@
 ---
-title: "----------------------- GIS Projects---------------------"
+title: "------------------ GIS Projects ------------------"
 permalink: /GIS/
 header:
   image: "/images/Fotolia_108919730_M.jpg"
