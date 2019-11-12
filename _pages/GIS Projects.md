@@ -68,7 +68,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
     
 ### Poster
-  <img src="{{site.url }}{{ site.baseurl }}/Dissertation_Poster_Antonios_Kaloskamis(51877623).pdf" alt="linearly separable data">
+  <a href="/Dissertation_Poster_Antonios_Kaloskamis(51877623).pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
