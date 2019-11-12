@@ -8,6 +8,7 @@ mathjax: "true"
 
 ## Dissertation-Spatial-Temporal Traffic Accident Analysis in relation to EMS Response Time
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/AccidentAnalysis.jpg" alt="linearly separable data">
+*Fig. 1: Scottish Ambulance Services (source: Scottish Ambulance Service, 2019)*
 ### Abstract
 Traffic accidents constitute one of the dominant causes of death globally, influencing the welfare of modern society significantly. Aberdeen City is considered as one of the most traffic-congested cities in the UK, resulting in more than 180 incidents per year for the last 10-year period. The purpose of this study is to perform an accidents cluster analysis in the City of Aberdeen by examining both time and space aspects in relation to the Emergency Medical Services (EMS) response time. Performing network cluster analysis, new space-time accident hot spots are detected on the road network and then a composite examination between those hot spots and the EMS response time is performed.
 
@@ -18,6 +19,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
   Data cleansing and validation is achieved so that data to be ready for use by the GIS software. The datasets contain information about   traffic accidents in the UK, the road network and the location of the ambulance station. Afterwards, the data are analysed in a         spatial-temporal framework revealing interesting space-time patterns.
   * Study Area 
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/StudyArea.jpg" alt="linearly separable data">
+    
   + Data Acquisition
     <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/DataAcq.jpg" alt="linearly separable data">
 
@@ -53,16 +55,23 @@ Throughout the performed analysis and examination of the traffic accident data, 
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clusters.jpg" alt="linearly separable data">
   * Accident Rates per Road
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CpR.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/CaspR.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/DpR.jpg" alt="linearly separable data">
   * Accident hot spots comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_Cas.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cr_D.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Cas_D.jpg" alt="linearly separable data">
   * Temporal Distributions
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Hourly.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Monthly.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Annual.jpg" alt="linearly separable data">
+    
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Clock.JPG" alt="linearly separable data">
   * Accident Hot Spots and EMS Service Areas Comparison
     <img src="{{site.url }}{{ site.baseurl }}/images/Dissertation/Final.jpg" alt="linearly separable data">
