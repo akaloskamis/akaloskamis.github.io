@@ -266,14 +266,11 @@ defaults:
 collections:
   GIS:
     output: true
-    permalink: /GIS/:name    
+    permalink: /GIS/:name
+  Data Analysis:
+    output: true
+    permalink: /DataAnalysis/:name
 theme: jekyll-theme-minimal
 
-defaults:
-  - scope:
-      path: ""
-      type: "GIS"
-    values:
-      layout: GIS
 
 
