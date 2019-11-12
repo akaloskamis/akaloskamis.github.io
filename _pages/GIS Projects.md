@@ -33,7 +33,7 @@ Throughout the performed analysis and examination of the traffic accident data, 
      
 ####  Space-time patterns and Emerging Hot spots
    <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/EmergingHotSpot.jpg" alt="linearly separable data"><img src="{{           site.url }}{{ site.baseurl }}/images/Dissertation/SpaceTimeCube.jpg" alt="linearly separable data">
-      *Fig. 5: Figure 11: Screen shots of the parameters used by the Create Space Time Cube by Aggregating Points and the Emerging Hot Spot Analysis tools.*
+      *Fig. 5: Screen shots of the parameters used by the Create Space Time Cube by Aggregating Points and the Emerging Hot Spot Analysis tools.*
       
    <img src="{{ site.url }}{{ site.baseurl }}/images/Dissertation/3D Visualization.jpg" alt="linearly separable data">
     *Fig. 6: Screenshot of the 3D visualisation of the space – time cube.*
