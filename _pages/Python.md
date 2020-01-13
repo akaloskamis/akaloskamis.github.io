@@ -5,6 +5,6 @@ header:
   image: "/images/Fotolia_108919730_M.jpg"
 ---
 
-## Project 1
+# Page Rank Algorithm
 
-## Project 2
+## Scope: This is a set of programs that emulate some of the functions of a search engine.  They store their data in a SQLITE3 database named 'spider.sqlite'.  This file can be removed at any time to restart the process
