@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis Projects"
+title: "Data Analysis"
 permalink: /DataAnalysis/
 header:
   image: "/images/Fotolia_108919730_M.jpg"
