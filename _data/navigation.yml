@@ -10,7 +10,7 @@ main:
     url: /DataAnalysis/
   - title: "Python"
     url: /Python/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "SQL-Database Management"
+    url: /SQL/
   # - title: "Sitemap"
   #   url: /sitemap/
