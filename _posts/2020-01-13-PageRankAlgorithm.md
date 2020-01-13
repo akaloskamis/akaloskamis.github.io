@@ -8,16 +8,16 @@ excerpt: "Search Spider, Page Ranker, Visualizer, SQLite"
 mathjax: "true"
 ---
 
-# Page Rank Algorithm
-
 ### Scope: This is a set of programs that emulate some of the functions of a search engine. They store their data in a SQLITE3 database named 'spider.sqlite'. This file can be removed at any time to restart the process.
 
 
 In order to collect and store the data, the SQLite Browser should be firstly installed using this [link](http://sqlitebrowser.org/).
 
 ## Process:
-This program crawls a web site and pulls a series of pages into the
-database, recording the links between pages.
+The programme below crawls a web site and pulls a series of pages into the database, recording the links between pages.At the end of the execution, the user is asked to enter the web website and how many pages wants to be crawled.
+
+If you restart the program again and tell it to crawl more pages, it will not re-crawl any pages already in the database. Upon restart it goes to a random non-crawled page and starts there.  So 
+each successive run of progeamme below is additive.
 
 ```python
 import sqlite3
