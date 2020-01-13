@@ -1,5 +1,5 @@
 ---
-title: "Page Rank Algorithm"
+title: "Building a Search Engine for Wikipedia"
 date: 2020-01-13
 tags: [Search Spider, Page Ranker, Visualizer, SQLite]
 header:
@@ -13,7 +13,15 @@ mathjax: "true"
 
 In order to collect and store the data, the SQLite Browser should be firstly installed using this [link](http://sqlitebrowser.org/).
 
-## Process:
+The steps which are followed are:
+1. Web Crawling (Process of retreiving a page and pulling out all the links in a list.)
+2. Index Building (Look up the links between these pages and set and an Index based on their connectivity)
+3. Searching
+
+## Process: The page Rank Algorithm has been devided into 5 smaller programmes
+
+* Script 1
+
 The programme below crawls a web site and pulls a series of pages into the database, recording the links between pages.At the end of the execution, the user is asked to enter the web website and how many pages wants to be crawled.
 
 If you restart the program again and tell it to crawl more pages, it will not re-crawl any pages already in the database. Upon restart it goes to a random non-crawled page and starts there.  So 
@@ -170,3 +178,40 @@ while True:
 
 cur.close()
 ```
++ Script 2
+
+This script reads through the data in the database, writes through the data and get the Rank Page values.
+
+
++ Script 3
+
+In order to dump the contents of the created SQLite database, we run the script below.
+
+*(Dump is the process of)*
+
+```python
+import sqlite3
+
+conn = sqlite3.connect('spider.sqlite')
+cur = conn.cursor()
+
+cur.execute('''SELECT COUNT(from_id) AS inbound, old_rank, new_rank, id, url 
+     FROM Pages JOIN Links ON Pages.id = Links.to_id
+     WHERE html IS NOT NULL
+     GROUP BY id ORDER BY inbound DESC''')
+
+count = 0
+for row in cur :
+    if count < 50 : print(row)
+    count = count + 1
+print(count, 'rows.')
+cur.close()
+```
+The results of the running script is the number of incoming links, the old page rank, the new page
+rank, the id of the page, and the url of the page. An example is shown below:
+(6, 2.1145833333333335, 0.7383214107411781, 1135, 'http://python-data.dr-chuck.net/known_by_Orrick.html')
+(6, 2.9479166666666665, 4.517690365321703, 2874, 'http://python-data.dr-chuck.net/known_by_Tane.html')
+(5, 1.6145833333333337, 2.403659583360638, 108, 'http://python-data.dr-chuck.net/known_by_Abisha.html')
+(5, 2.03125, 1.814409390772034, 959, 'http://python-data.dr-chuck.net/known_by_Wylie.html')
+
++ Script 2
