@@ -12,5 +12,5 @@ main:
     url: /Python/
   - title: "SQL-Database Management"
     url: /SQL/
-  - title: "fff"
-    url: /fff/
+  #- title: "fff"
+  #  url: /fff/
