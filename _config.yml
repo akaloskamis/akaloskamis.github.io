@@ -262,16 +262,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
-      
-# collections:
-#  GIS:
- #   output: true
- #   permalink: /GIS/:name
-#  Data Analysis:
-#    output: true
- #   permalink: /DataAnalysis/:name
-# theme: jekyll-theme-minimal
-
-
-
