@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /SQL2/
+permalink: /SQL/
 title: "Building a Hotel Database"
 author_profile: true
 header:
