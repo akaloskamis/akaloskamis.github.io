@@ -265,13 +265,13 @@ defaults:
       
       
 # collections:
-  GIS:
-    output: true
-    permalink: /GIS/:name
-  Data Analysis:
-    output: true
-    permalink: /DataAnalysis/:name
-theme: jekyll-theme-minimal
+#  GIS:
+ #   output: true
+ #   permalink: /GIS/:name
+#  Data Analysis:
+#    output: true
+ #   permalink: /DataAnalysis/:name
+# theme: jekyll-theme-minimal
 
 
 
