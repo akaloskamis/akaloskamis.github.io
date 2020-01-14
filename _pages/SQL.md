@@ -1,10 +1,21 @@
+
 ---
-title: "SQL-Database Management"
-permalink: /SQL/
+layout: posts
+permalink: /SQL2/
+title: "Building a Hotel Database"
+author_profile: true
 header:
-  image: "/images/Fotolia_108919730_M.jpg"
+  image: "/images/fort point.png"
 ---
 
 # Project 1
+---
+layout: posts
+permalink: /SQL3/
+title: "Database Design and Transaction Management"
+author_profile: true
+header:
+  image: "/images/fort point.png"
+---
 
 ## Project 2
