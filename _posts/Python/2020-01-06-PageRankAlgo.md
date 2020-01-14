@@ -1,6 +1,6 @@
 ---
 title: "Building a Search Engine for Wikipedia"
-date: 2020-01-13
+date: 2020-01-06
 tags: [Search Spider, Page Ranker, Visualizer, SQLite]
 header:
   image: "/images/PageRankAlgo.JPG"
