@@ -265,9 +265,9 @@ defaults:
       
       
 collections:
-  - Python:
+  GIS:
     output: true
-    permalink: /Python/:name
+    permalink: /GIS/:name
   Data Analysis:
     output: true
     permalink: /DataAnalysis/:name
