@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /SQL3/
+permalink: /SQL/
 title: "Database Design and Transaction Management"
 author_profile: true
 header:
