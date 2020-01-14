@@ -7,6 +7,3 @@ header:
   image: "/images/fort point.png"
 ---
 
-# Project 1
-
-
