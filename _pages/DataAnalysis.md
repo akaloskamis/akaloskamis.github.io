@@ -1,10 +1,9 @@
 ---
-title: "Data Analysis"
+layout: posts
 permalink: /Data_Analysis/
+title: "Building a Hotel Database"
+author_profile: true
 header:
-  image: "/images/Fotolia_108919730_M.jpg"
+  image: "/images/fort point.png"
 ---
 
-# Project 1
-
-## Project 2
