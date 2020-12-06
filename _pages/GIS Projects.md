@@ -95,13 +95,6 @@ Throughout the performed analysis and examination of the traffic accident data, 
 
 # ----------------------------------------------------------------
 
----
-title: "------------------ GIS Projects ------------------"
-permalink: /GIS/
-header:
-  image: "/images/Fotolia_108919730_M.jpg"
-mathjax: "true"
----
 
 ## Heads-Up Digitization of the Cruickshank Botanic Garden in Aberdeen, UK.
 
