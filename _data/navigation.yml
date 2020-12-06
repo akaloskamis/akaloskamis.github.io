@@ -4,9 +4,9 @@ main:
     url: /about/
  # - title: "Resume"
  #   url: /about/
-  - title: "GIS Projects"
+  - title: "GIS"
     url: /GIS/
-  - title: "Data Analysis Projects"
+  - title: "Data Analysis"
     url: /DataAnalysis/
   - title: "Python"
     url: /Python/
