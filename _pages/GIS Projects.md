@@ -1,6 +1,6 @@
 ---
 title: "------------------ GIS Projects ------------------"
-permalink: /GIS/Dissertation/
+permalink: /GIS/
 header:
   image: "/images/Fotolia_108919730_M.jpg"
 mathjax: "true"
